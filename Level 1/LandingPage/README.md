@@ -42,12 +42,6 @@ css
 3- Scroll to Anchor:- When clicking an item from the navigation menu, the link should scroll to the appropriate section and used create element to create button " go to top" when user click on it, and hide the button and header navigation bar when the page on top. And when user scroll down they are appeared to deal with them, and finally used event click to make the button responsive and go to the top of the page.
 4- Used media query in js code to add some features to nav bar and hide it in mobiles screens
 
-## License
-
-First project: Landing Page
-This code write by Mohamed Nassar
-copyrights Udacity
-Most of my searches in w3school and MDN websites topics but I wrote every code alone.
 
 ## Footer
 
